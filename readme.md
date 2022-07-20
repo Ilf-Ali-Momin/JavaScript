@@ -1,3 +1,7 @@
+Learning JavaScript 
+
+
+
 ## Day01 Variables
 
 ![carbon (5)](https://user-images.githubusercontent.com/109297627/180037735-90c16d69-ce1b-4ea3-b5b3-67d6380ed089.png)
