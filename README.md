@@ -1,5 +1,5 @@
 # JavaScript
-Learing JavaScript from basic to advance
+Learning JavaScript from basic to advance
 
 
 
